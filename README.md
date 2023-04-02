@@ -7,8 +7,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/0xtaruhi/Dino/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/0xtaruhi/Dino/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/0xtaruhi/Dino.svg)](https://github.com/0xtaruhi/Dino/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/0xtaruhi/Dino.svg)](https://github.com/0xtaruhi/Dino/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
